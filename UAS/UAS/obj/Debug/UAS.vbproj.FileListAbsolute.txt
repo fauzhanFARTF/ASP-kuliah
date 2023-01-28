@@ -1,0 +1,9 @@
+C:\Users\Fauzan\Documents\Visual Studio 2008\Projects\UAS\UAS\bin\UAS.dll
+C:\Users\Fauzan\Documents\Visual Studio 2008\Projects\UAS\UAS\bin\UAS.pdb
+C:\Users\Fauzan\Documents\Visual Studio 2008\Projects\UAS\UAS\bin\UAS.xml
+C:\Users\Fauzan\Documents\Visual Studio 2008\Projects\UAS\UAS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fauzan\Documents\Visual Studio 2008\Projects\UAS\UAS\obj\Debug\UAS.Resources.resources
+C:\Users\Fauzan\Documents\Visual Studio 2008\Projects\UAS\UAS\obj\Debug\UAS.vbproj.GenerateResource.Cache
+C:\Users\Fauzan\Documents\Visual Studio 2008\Projects\UAS\UAS\obj\Debug\UAS.dll
+C:\Users\Fauzan\Documents\Visual Studio 2008\Projects\UAS\UAS\obj\Debug\UAS.xml
+C:\Users\Fauzan\Documents\Visual Studio 2008\Projects\UAS\UAS\obj\Debug\UAS.pdb
